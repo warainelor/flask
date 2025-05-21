@@ -3,5 +3,5 @@
 ## Run Flusk app
 
 ```bash
-flask --app hello_flask.py run
+flask --app app.py run
 ```
